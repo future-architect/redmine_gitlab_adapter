@@ -1,0 +1,6 @@
+# English strings go here for Rails i18n
+en:
+  # my_label: "My label"
+  text_gitlab_repository_note: "Examples: https://<gitlab.url>/<group>/<project>.git, https://<gitlab.url>/<context_path>/<group>/<project>.git"
+  field_root_url: "Root URL"
+  text_gitlab_root_url_note: "Examples: https://<gitlab.url>, https://<gitlab.url>/<context_path>"

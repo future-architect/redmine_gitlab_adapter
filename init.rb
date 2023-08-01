@@ -1,5 +1,5 @@
 require 'redmine'
-require 'gitlab_repositories_helper_patch'
+require File.expand_path('../lib/gitlab_repositories_helper_patch', __FILE__)
 
 Redmine::Plugin.register :redmine_gitlab_adapter do
   name 'Redmine Gitlab Adapter plugin'

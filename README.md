@@ -1,6 +1,6 @@
 # Redmine Gitlab Adapter Plugin
 
-For Redmine 3.x.x or Redmine 4.x.x.
+For Redmine 3.4 or above, Redmine 4.x.x, and Redmine 5.x.x.
 
 ### Plugin installation
 
